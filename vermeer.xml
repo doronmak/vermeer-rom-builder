@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="xiaomi-sm8550-devs/android_device_xiaomi_vermeer" path="device/xiaomi/vermeer" remote="github" revision="lineage-22.0" />
+  <project name="xiaomi-sm8550-devs/android_device_xiaomi_sm8550-common" path="device/xiaomi/sm8550-common" remote="github" revision="lineage-22.0" />
+  <project name="xiaomi-sm8550-devs/android_vendor_xiaomi_vermeer" path="vendor/xiaomi/vermeer" remote="github" revision="lineage-22.0" />
+  <project name="xiaomi-sm8550-devs/android_kernel_xiaomi_sm8550" path="kernel/xiaomi/sm8550" remote="github" revision="lineage-22.0" />
+</manifest>
